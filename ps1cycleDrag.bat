@@ -48,8 +48,8 @@ for %%f in (!fileList!) do (
         
         :: 执行完/终止后暂停
         echo.
-        echo 【当前脚本已结束】按任意键继续下一个...
-        pause >nul
+        echo 【当前脚本已结束】运行下一个：
+        @REM pause >nul
         echo.
         echo --------------------------------------------------
         echo.
