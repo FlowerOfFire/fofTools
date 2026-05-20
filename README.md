@@ -1,1 +1,1 @@
-> All rights reserved.
+all rights reserved
